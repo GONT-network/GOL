@@ -1,0 +1,2 @@
+# GOL
+GONT Oracle Language
